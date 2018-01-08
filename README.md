@@ -1,5 +1,12 @@
 # Rock, Paper, Scissors - Homework
 
+## Main
+Homework Repo.
+Everything is working fine.
+There's a 'solution' folder that was given by the Trainer after the task was presented.
+
+## Homework Task
+
 Your homework is to create the game Rock Paper Scissors game against the computer in the browser using alerts and prompts.
 
 *Rules of the Game*
@@ -16,8 +23,6 @@ Setup:-
 * Create a repo on Git called `sparta-js-rock-paper-scissors`
 * Create a dev branch
 * Submit a pull request by 9:00 with your completed work
-
-
 * Get the player input through the browser
 * Create a random move for the computer
 * You should play the best of five rounds between the player and the computer
